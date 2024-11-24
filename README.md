@@ -2,7 +2,7 @@
 
 
 
-<img src="SignalSafeLogo.png" alt="SignalSafe Logo" width="450"/>
+<img src="SignalSafeLogo.png" alt="SignalSafe Logo" width="600"/>
 
 [Introduction](https://docs.google.com/presentation/d/131DjNkodW-H4hMsFSn5oTiVO1D9MgEXv0WWQGfe7uTA/edit#slide=id.p)
 #
