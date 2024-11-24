@@ -22,3 +22,30 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Modern_British_LED_Traffic_Light.jpg/440px-Modern_British_LED_Traffic_Light.jpg" alt="red" width="250"/>
 
 <img src="https://hips.hearstapps.com/hmg-prod/images/green-traffic-light-royalty-free-image-1675887049.jpg" alt="green" width="250"/>
+
+
+##
+
+##
+<img src="https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/03/alexnet_small.png" widt="400">
+
+Usage of Alexnet...
+
+AlexNet is a convolutional neural network designed for image classification. It processes input images through convolutional layers to extract features, applies activation functions for non-linearity, uses pooling for spatial reduction, and employs fully connected layers for predictions
+
+
+#
+#
+[WandB]()
+
+<img src=")" width="350">       
+
+<img src=")" width="350">
+
+#
+#
+
+Random Filters
+
+
+<img src="" alt="Image" width="400"/>
