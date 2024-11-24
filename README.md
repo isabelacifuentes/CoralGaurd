@@ -36,16 +36,5 @@ AlexNet is a convolutional neural network designed for image classification. It 
 
 #
 #
-[WandB]()
-
-<img src=")" width="350">       
-
-<img src=")" width="350">
-
-#
-#
-
-Random Filters
 
 
-<img src="" alt="Image" width="400"/>
