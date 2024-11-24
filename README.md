@@ -2,7 +2,8 @@
 
 
 
-![image](file:///Users/isabelacifuentes/Desktop/Screenshot%202024-11-24%20at%204.07.10%E2%80%AFPM.png)
+![image](file:///Users/isabelacifuentes/Desktop/FAU/MAP2192/SignalSafeLogo.png)
+
 [Introduction](https://docs.google.com/presentation/d/131DjNkodW-H4hMsFSn5oTiVO1D9MgEXv0WWQGfe7uTA/edit#slide=id.p)
 #
 #
