@@ -85,3 +85,15 @@ W: Weight matrix.
 b: Bias vector.
 y: Output vector.
 
+
+
+##
+
+##
+
+![image](https://github.com/user-attachments/assets/d4b58f5f-3f07-4f22-a392-192d4471b845)
+
+**Loss Function in AlexNet**
+
+The loss function measures how well the model's predictions match the actual labels. In AlexNet, a classification task, the most commonly used loss function is the Cross-Entropy Loss, which is suitable for multi-class or binary classification.
+
