@@ -15,7 +15,6 @@
 
 
 
-
 ###
 [Data Deck](https://docs.google.com/presentation/d/1BwfaCczKoyCVFjTcvxK5QguIIY-9vJnExXco0d_DtjQ/edit#slide=id.g2d5f33bc7f1_0_196)
 
@@ -25,9 +24,8 @@
 
 
 
-
-
-
+#
+#
 
 
 ###
@@ -35,7 +33,7 @@
 [Website](https://isabelacifuentes.github.io/Signal-Safe/)
 
 
-##
+
 
 ##
 <img src="https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/03/alexnet_small.png" width="400">
