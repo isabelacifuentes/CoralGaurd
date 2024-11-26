@@ -34,9 +34,6 @@ Alexnet Convents
 AlexNet is a convolutional neural network designed for image classification. It processes input images through convolutional layers to extract features, applies activation functions for non-linearity, uses pooling for spatial reduction, and employs fully connected layers for predictions
 
 
-#
-#
-
 ##
 
 ##
