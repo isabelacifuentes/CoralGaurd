@@ -49,6 +49,9 @@ Pooling is an essential operation in convolutional neural networks (CNNs) like A
 
 ##
 
+![image](https://github.com/user-attachments/assets/61996ba4-3379-4894-a011-de51d219cc48)
+
+
 **Alexnet Activation Functions**
 
 Activation functions introduce non-linearity into neural networks, enabling them to learn complex patterns and relationships in the data. In AlexNet, the Rectified Linear Unit (ReLU) activation function is used extensively
