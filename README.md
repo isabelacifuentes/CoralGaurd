@@ -29,7 +29,7 @@
 ##
 <img src="https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/03/alexnet_small.png" width="400">
 
-Alexnet Convents
+**Alexnet Convents**
 
 AlexNet is a convolutional neural network designed for image classification. It processes input images through convolutional layers to extract features, applies activation functions for non-linearity, uses pooling for spatial reduction, and employs fully connected layers for predictions
 
@@ -39,7 +39,7 @@ AlexNet is a convolutional neural network designed for image classification. It 
 ##
 <img src="https://miro.medium.com/v2/resize:fit:1248/1*ECIusCMDF0J9ONrGmG-BBg.png" width="400">
 
-Alexnet Pooling
+**Alexnet Pooling**
 
 Pooling is an essential operation in convolutional neural networks (CNNs) like AlexNet, which reduces the spatial dimensions of feature maps while retaining important features. Pooling helps in: Reducing computational complexity, preventing overfitting by reducing the parameters and ensuring translational invariance.
 
@@ -49,7 +49,7 @@ Pooling is an essential operation in convolutional neural networks (CNNs) like A
 
 ##
 
-Alexnet Activation Functions
+**Alexnet Activation Functions**
 
 Activation functions introduce non-linearity into neural networks, enabling them to learn complex patterns and relationships in the data. In AlexNet, the Rectified Linear Unit (ReLU) activation function is used extensively
 
@@ -67,7 +67,7 @@ If x≤0, output 0.
 
 ##
 
-Fully Connected Layers in AlexNet
+**Fully Connected Layers in AlexNet**
 
 The Fully Connected (FC) layers in AlexNet are part of the classifier section of the network. 
 
