@@ -60,3 +60,18 @@ The ReLU function is defined as:
 Output:
 If x>0, output x.
 If x≤0, output 0.
+
+
+
+##
+
+##
+
+Fully Connected Layers in AlexNet
+
+The Fully Connected (FC) layers in AlexNet are part of the classifier section of the network. 
+
+These layers:
+- Combine features learned by earlier layers to make final predictions.
+- Perform high-level reasoning by mapping feature maps to output classes.
+
