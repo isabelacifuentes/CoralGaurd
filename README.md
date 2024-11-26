@@ -75,3 +75,10 @@ These layers:
 - Combine features learned by earlier layers to make final predictions.
 - Perform high-level reasoning by mapping feature maps to output classes.
 
+Fully connected layers are expressed as: y=Wx+b
+
+x: Input feature vector.
+W: Weight matrix.
+b: Bias vector.
+y: Output vector.
+
