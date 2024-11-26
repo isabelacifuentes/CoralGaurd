@@ -27,9 +27,9 @@
 ##
 
 ##
-<img src="https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/03/alexnet_small.png" widt="400">
+<img src="https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/03/alexnet_small.png" width="400">
 
-Usage of Alexnet
+Alexnet Convents
 
 AlexNet is a convolutional neural network designed for image classification. It processes input images through convolutional layers to extract features, applies activation functions for non-linearity, uses pooling for spatial reduction, and employs fully connected layers for predictions
 
@@ -37,4 +37,11 @@ AlexNet is a convolutional neural network designed for image classification. It 
 #
 #
 
+##
 
+##
+<img src="https://miro.medium.com/v2/resize:fit:1248/1*ECIusCMDF0J9ONrGmG-BBg.png" width="400">
+
+Alexnet Pooling
+
+Pooling is an essential operation in convolutional neural networks (CNNs) like AlexNet, which reduces the spatial dimensions of feature maps while retaining important features. Pooling helps in: Reducing computational complexity, preventing overfitting by reducing the parameters and ensuring translational invariance.
