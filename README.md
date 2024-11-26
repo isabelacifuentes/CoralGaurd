@@ -42,3 +42,21 @@ AlexNet is a convolutional neural network designed for image classification. It 
 Alexnet Pooling
 
 Pooling is an essential operation in convolutional neural networks (CNNs) like AlexNet, which reduces the spatial dimensions of feature maps while retaining important features. Pooling helps in: Reducing computational complexity, preventing overfitting by reducing the parameters and ensuring translational invariance.
+
+
+
+##
+
+##
+
+Alexnet Activation Functions
+
+Activation functions introduce non-linearity into neural networks, enabling them to learn complex patterns and relationships in the data. In AlexNet, the Rectified Linear Unit (ReLU) activation function is used extensively
+
+The ReLU function is defined as:
+
+𝑓(𝑥)=max(0,𝑥)
+
+Output:
+If x>0, output x.
+If x≤0, output 0.
