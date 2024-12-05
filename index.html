@@ -1,120 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SignalSafe</title>
-  <style>
-    /* General Styles */
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f9f9;
-      color: #333;
-      text-align: center;
-    }
-
-    /* Header */
-    header {
-      background-color: #4CAF50;
-      color: white;
-      padding: 20px;
-    }
-
-    header .logo {
-      max-width: 150px;
-      margin-bottom: 10px;
-    }
-
-    header h1 {
-      margin: 10px 0;
-      font-size: 2rem;
-    }
-
-    header p {
-      font-size: 1.2rem;
-    }
-
-    /* Sections */
-    section {
-      margin: 20px;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    section h2 {
-      margin-bottom: 10px;
-      font-size: 1.8rem;
-      color: #4CAF50;
-    }
-
-    section p {
-      font-size: 1rem;
-      line-height: 1.5;
-    }
-
-    section ul {
-      list-style-type: none;
-      padding: 0;
-    }
-
-    section ul li {
-      margin: 10px 0;
-      font-size: 1rem;
-    }
-
-    /* Footer */
-    footer {
-      background-color: #333;
-      color: white;
-      padding: 10px;
-      position: fixed;
-      bottom: 0;
-      width: 100%;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signal Safe - Enhancing Road Safety</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #004aad;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #004aad;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+        }
+        section h2 {
+            color: #004aad;
+            border-bottom: 2px solid #004aad;
+            padding-bottom: 5px;
+        }
+        .traffic-light-image {
+            width: 100%;
+            max-width: 600px;
+            display: block;
+            margin: 20px auto;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #004aad;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
-  <!-- Header Section -->
-  <header>
-    <img src="logo.png" alt="SignalSafe Logo" class="logo">
-    <h1>Welcome to SignalSafe</h1>
-    <p>Your Road to Safer and Smarter Driving</p>
-  </header>
-  
-  <!-- About Section -->
-  <section class="about">
-    <h2>About SignalSafe</h2>
-    <p>
-      SignalSafe is an innovative business specializing in AI-powered traffic light recognition technology. 
-      Our smart camera systems enhance road safety by providing real-time alerts and preventing accidental violations of red lights.
-    </p>
-  </section>
-
-  <!-- Features Section -->
-  <section class="features">
-    <h2>Features</h2>
-    <ul>
-      <li>AI-based traffic light detection</li>
-      <li>Real-time driver alerts</li>
-      <li>Seamless integration with vehicles</li>
-      <li>Improved traffic flow and compliance</li>
-    </ul>
-  </section>
-
-  <!-- Contact Section -->
-  <section class="contact">
-    <h2>Contact Us</h2>
-    <p>Email: info@signalsafe.com</p>
-    <p>Phone: +1-234-567-8901</p>
-  </section>
-
-  <!-- Footer Section -->
-  <footer>
-    <p>&copy; 2024 SignalSafe. All Rights Reserved.</p>
-  </footer>
+    <header>
+        <h1>Welcome to Signal Safe</h1>
+        <p>Making roads safer, one traffic light at a time</p>
+    </header>
+    <nav>
+        <a href="#purpose">Purpose</a>
+        <a href="#who-we-are">Who We Are</a>
+        <a href="#what-we-will-do">What We Will Do</a>
+        <a href="https://github.com" target="_blank">Visit Our GitHub</a>
+    </nav>
+    <section id="purpose">
+        <h2>Purpose</h2>
+        <p>Signal Safe is a revolutionary AI-based initiative aimed at improving road safety. Our mission is to prevent traffic accidents caused by red-light violations using cutting-edge AI technology that detects and classifies traffic light states in real time.</p>
+        <img src="traffic-light-red.jpg" alt="Traffic Light - Red" class="traffic-light-image">
+    </section>
+    <section id="who-we-are">
+        <h2>Who We Are</h2>
+        <p>We are a team of innovators, engineers, and road safety advocates dedicated to leveraging artificial intelligence to solve real-world problems. Our team combines expertise in machine learning, data science, and urban traffic management to create a safer driving environment for everyone.</p>
+        <img src="traffic-light-green.jpg" alt="Traffic Light - Green" class="traffic-light-image">
+    </section>
+    <section id="what-we-will-do">
+        <h2>What We Will Do</h2>
+        <p>Signal Safe plans to deploy a smart camera system that can detect traffic light states and provide real-time alerts to drivers. Our roadmap includes:</p>
+        <ul>
+            <li>Developing and testing our AI model with traffic light data.</li>
+            <li>Collaborating with city planners and traffic authorities to integrate the system.</li>
+            <li>Ensuring sustainability by introducing energy-efficient hardware.</li>
+            <li>Exploring AI integration with self-driving vehicles.</li>
+        </ul>
+        <p>Learn more about our roadmap in our <a href="https://docs.google.com/presentation/d/1BwfaCczKoyCVFjTcvxK5QguIIY-9vJnExXco0d_DtjQ/edit" target="_blank">presentation</a>.</p>
+        <img src="traffic-light-yellow.jpg" alt="Traffic Light - Yellow" class="traffic-light-image">
+    </section>
+    <footer>
+        <p>&copy; 2024 Signal Safe. All Rights Reserved.</p>
+    </footer>
 </body>
 </html>
+
